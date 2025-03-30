@@ -1,2 +1,2 @@
 # FirstRepo
-*there's nothing much*
+*there's nothing much left*
